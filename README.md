@@ -11,11 +11,10 @@ This script automates the installation and management of the oversteer program, 
     -e     Existing Install   Re-installs required libaries to enable oversteer function after steamdeck update
 ```
 
-## Credits for oversteer
+## Oversteer developed by 
 
-  - [Oversteer](https://github.com/berarma/oversteer) - Used
-    for the Code of Conduct
-  - [Oversteer ported to Arch](https://aur.archlinux.org/packages/oversteer) - 
+  - [Oversteer](https://github.com/berarma/oversteer) 
+  - [Oversteer ported to Arch](https://aur.archlinux.org/packages/oversteer)
 
 ## License
 
