@@ -83,7 +83,7 @@ while getopts ":hfe" option; do
             exit;;
         \?)
             echo ""
-            echo "!!!! Invalid Option !!!!"
+            echo "!!!! Invalid option provided, refer to the usage guide. !!!!"
             usage
             exit;;
     esac
