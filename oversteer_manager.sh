@@ -88,3 +88,8 @@ while getopts ":hfe" option; do
             exit;;
     esac
 done
+
+if [ $# -eq 0 ]; then
+    usage
+    exit 1
+fi
